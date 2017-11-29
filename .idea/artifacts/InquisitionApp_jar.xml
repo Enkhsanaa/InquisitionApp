@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InquisitionApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InquisitionApp_jar</output-path>
+    <root id="archive" name="InquisitionApp.jar">
+      <element id="module-output" name="InquisitionApp" />
+    </root>
+  </artifact>
+</component>

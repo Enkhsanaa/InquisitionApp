@@ -5,7 +5,7 @@ import java.io.*;
 
 public class Main {
     public static String ADDRESS = null;
-    public static final int PORT_NUM = 1113;
+    public static final int PORT_NUM = 1202;
     public static final int TIMEOUT = 60000;
 
     private static final String binFilePath = "questions.bin";
